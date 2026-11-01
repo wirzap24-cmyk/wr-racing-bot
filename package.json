@@ -1,0 +1,16 @@
+{
+  "name": "wr-racing-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord WR Racing : devis, dossiers clients, tickets et Shopify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.21.1"
+  }
+}
